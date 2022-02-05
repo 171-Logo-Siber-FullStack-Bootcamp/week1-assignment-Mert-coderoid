@@ -2,3 +2,8 @@
 # week1-assignment
 
 - XMLHttpRequest araştırılacak ve jsonplaceholder kullanılarak içerisindeki userlar console’a yazdırılacak.
+
+------------
+
+![ alt text for screen readers](https://media.discordapp.net/attachments/922810114958831647/939474786449518653/Ekran_goruntusu_2022-02-05_135524.png?width=1112&height=671)
+
